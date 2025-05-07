@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-04-24T08:18:54.008791",
+    "task": "call mom",
+    "heuristics": {
+      "urgency": "low",
+      "task_type": "personal",
+      "tone": "neutral"
+    },
+    "llm_prediction": "MEDIUM",
+    "user_correction": "HIGH"
+  },
+  {
+    "timestamp": "2025-04-24T08:22:23.213184",
+    "task": "watch tv later",
+    "heuristics": {
+      "urgency": "medium",
+      "task_type": "personal",
+      "tone": "neutral"
+    },
+    "llm_prediction": "MEDIUM",
+    "user_correction": "LOW"
+  },
+  {
+    "timestamp": "2025-04-24T08:23:00.681757",
+    "task": "watch tv later",
+    "heuristics": {
+      "urgency": "medium",
+      "task_type": "personal",
+      "tone": "neutral"
+    },
+    "llm_prediction": "MEDIUM",
+    "user_correction": "LOW"
+  },
+  {
+    "timestamp": "2025-05-07T17:53:25.814465",
+    "task": "call Rahul",
+    "heuristics": {
+      "urgency": "low",
+      "task_type": "personal",
+      "tone": "neutral"
+    },
+    "llm_prediction": "HIGH",
+    "user_correction": "LOW",
+    "llm_reasoning": "The task \"call Rahul\" has a high heuristic score indicating its importance, and it is currently past the typical working hours (17:53), suggesting that this call might be related to work matters or of personal urgency."
+  }
+]

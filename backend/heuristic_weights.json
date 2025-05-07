@@ -1,0 +1,11 @@
+{
+  "urgency=high": 3,
+  "urgency=medium": 0,
+  "urgency=low": 4,
+  "task_type=academic": 3,
+  "task_type=work": 2,
+  "task_type=personal": 0,
+  "tone=formal": 1,
+  "tone=neutral": 0,
+  "tone=casual": 0
+}
